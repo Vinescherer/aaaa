@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Aula 1809 ex1\Aula 1809 ex1\bin\Debug\Aula 1809 ex1.exe.config
+C:\Users\User\source\repos\Aula 1809 ex1\Aula 1809 ex1\bin\Debug\Aula 1809 ex1.exe
+C:\Users\User\source\repos\Aula 1809 ex1\Aula 1809 ex1\bin\Debug\Aula 1809 ex1.pdb
+C:\Users\User\source\repos\Aula 1809 ex1\Aula 1809 ex1\obj\Debug\Aula 1809 ex1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Aula 1809 ex1\Aula 1809 ex1\obj\Debug\Aula_1809_ex1.Form1.resources
+C:\Users\User\source\repos\Aula 1809 ex1\Aula 1809 ex1\obj\Debug\Aula_1809_ex1.Properties.Resources.resources
+C:\Users\User\source\repos\Aula 1809 ex1\Aula 1809 ex1\obj\Debug\Aula 1809 ex1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Aula 1809 ex1\Aula 1809 ex1\obj\Debug\Aula 1809 ex1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Aula 1809 ex1\Aula 1809 ex1\obj\Debug\Aula 1809 ex1.exe
+C:\Users\User\source\repos\Aula 1809 ex1\Aula 1809 ex1\obj\Debug\Aula 1809 ex1.pdb
